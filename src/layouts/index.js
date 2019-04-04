@@ -7,12 +7,12 @@ import Transition from '../components/transition';
 
 import './index.css';
 
-const Header = ({ name, title, date }) => (
+const Header = ({ name, event }) => (
   <header>
     <Link to="/1">
-      <span>{name}</span> — {title}
+      <span>{name}</span>
     </Link>
-    <time>{date}</time>
+    <time>{event}</time>
   </header>
 );
 
@@ -59,12 +59,11 @@ class TemplateWrapper extends Component {
     return (
       <div>
         <Helmet
-          title={`${site.siteMetadata.title} — ${site.siteMetadata.name}`}
+          name={`${site.siteMetadata.name} — ${site.siteMetadata.event}`}
         />
         <Header
           name={site.siteMetadata.name}
-          title={site.siteMetadata.title}
-          date={site.siteMetadata.date}
+          event={site.siteMetadata.event}
         />
         <Swipeable
           onSwipedLeft={this.swipeLeft}
@@ -91,8 +90,7 @@ export default props => (
         site {
           siteMetadata {
             name
-            title
-            date
+            event
           }
         }
         allSlide {

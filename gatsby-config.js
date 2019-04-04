@@ -1,8 +1,7 @@
 module.exports = {
   siteMetadata: {
-    name: `Fabian Schultz`,
-    title: `Gatsby Deck`,
-    date: `July 30, 2018`,
+    name: `The Great Gatsby.js`,
+    event: `Cincinnati Software Craftsmanship`
   },
   plugins: [
     `gatsby-plugin-layout`,

@@ -1,4 +1,4 @@
-# Gatsby Deck
+# The Great Gatsby.js
 
 Create presentations using Gatsby & React.
 
