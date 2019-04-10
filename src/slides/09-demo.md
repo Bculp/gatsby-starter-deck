@@ -1,0 +1,6 @@
+### Demo 3
+
+- Creating pages with Pages directory
+  - Add a page and then go to it in browser
+- Gatsby link
+  - Add a link to a new page
