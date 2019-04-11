@@ -1,6 +1,9 @@
-### Demo 3
+### Directory Structure Cont. (demo)
 
-- Creating pages with Pages directory
-  - Add a page and then go to it in browser
-- Gatsby link
-  - Add a link to a new page
+- gatsby-config
+  - Main config file for your site
+    - meta data
+    - plugins
+    - pathPrefix
+    - polyfill
+    - much more

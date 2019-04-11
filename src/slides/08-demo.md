@@ -1,8 +1,9 @@
-### Demo 2
+### Directory Structure (demo)
 
-- HMR
-  - Make a change and watch it update
-- Static folder
-  - Show the folder and build process
-- GraphiQL
-  - Show the interface
+- gatsby-ssr
+  - Setup pre-defined APIs for SSR
+- gatsby-node
+  - Affect parts of the build process w/ built-in APIs
+  - e.g. createPages
+- gatsby-browser
+  - Customize Gatsby settings for the browser

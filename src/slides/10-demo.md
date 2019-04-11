@@ -1,8 +1,7 @@
-### Demo 4
-#### Plugins
+### Directory Structure Cont. (demo)
 
-- Plugins are: “Packages that extend Gatsby sites. They can source content, transform data, and more!”
-- Gatsby-plugin-react-helmet
-  - Show meta data being set
-- Gatsby-plugin-manifest (PWA)
-  - Show pwa info in application tab in Chrome
+src (all of the front-end code)
+  - pages
+    - components in here automagically become pages with paths based on their file name.
+  - templates
+    - templates for programmatically creating pages

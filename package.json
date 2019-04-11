@@ -33,6 +33,7 @@
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
+    "clean": "rm -rf .cache",
     "develop": "gatsby develop",
     "format": "prettier --write \"src/**/*.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"

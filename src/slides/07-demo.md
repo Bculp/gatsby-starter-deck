@@ -5,5 +5,3 @@
   - clones the gatsby-starter-default “starter”
   - installs dependencies with yarn
 - cd gatsby-site
-- gatsby develop
-  - builds and serves up the site on port 8000 with HMR.
