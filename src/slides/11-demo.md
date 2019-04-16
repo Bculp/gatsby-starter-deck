@@ -1,12 +1,7 @@
 ### Directory Structure Cont. (demo)
 
 src (all of the front-end code)
-  - public
-    - (automatically generated)
-    - Output of the build process
-  - components
-    - common React pattern
-    - put most of our components in here
-  - html.js
-    - Allows for custom configuration of default .cache/default_html.js
-    - Momentum - show console of easter egg and code?
+  - pages
+    - components in here automagically become pages with paths based on their file name.
+  - templates
+    - templates for programmatically creating pages

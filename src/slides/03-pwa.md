@@ -1,12 +1,8 @@
 ### What is a PWA?
 
 - Responsive
+  - Any size/device
 - Works Offline (Caching)
 - Push Notifications
 - Service Workers
-- Installable via a screen prompt
-
-Must Haves: 
-- HTTPS
-- Web App Manifest
-- Service Worker
+  - JS code that caches data, retrieves data from the cache, and delivers push notifications

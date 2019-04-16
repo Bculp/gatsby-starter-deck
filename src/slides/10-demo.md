@@ -1,7 +1,8 @@
-### Directory Structure Cont. (demo)
+### Building & HMR (demo)
 
-src (all of the front-end code)
-  - pages
-    - components in here automagically become pages with paths based on their file name.
-  - templates
-    - templates for programmatically creating pages
+- run gatsby develop
+  - builds and serves up the site on port 8000 with HMR.
+- public folder (already mentioned, but show it)
+  - Show the folder and build process
+- HMR
+  - Make a change to pages/index.js and watch it update

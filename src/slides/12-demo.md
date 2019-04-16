@@ -1,8 +1,12 @@
-### Building & HMR (demo)
+### Directory Structure Cont. (demo)
 
-- run gatsby develop
-  - builds and serves up the site on port 8000 with HMR.
-- public folder (already mentioned, but show it)
-  - Show the folder and build process
-- HMR
-  - Make a change to pages/index.js and watch it update
+src (all of the front-end code)
+  - public
+    - (automatically generated)
+    - Output of the build process
+  - components
+    - common React pattern
+    - put most of our components in here
+  - html.js
+    - Allows for custom configuration of default .cache/default_html.js
+    - Momentum - show console of easter egg and code?
