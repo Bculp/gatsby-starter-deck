@@ -2,8 +2,10 @@
 - Use any data source you want
   - Markdown, Headless CMS, APIs, YAML, CSV...
 - Super fast (SPA-like experience)
-  - possible through things like inlining critical CSS (does this out of the box)
+  - Possible through things like inlining critical CSS (does this out of the box)
 - Can be hosted anywhere
+  - Mention gitlab pages, heroku, netlify
+  - If use netlify, can put CMS layer over top
 - Dynamic page creation
 - Plugins
 - [Tons of starter templates](https://www.gatsbyjs.org/starters/?v=2)
