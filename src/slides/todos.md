@@ -1,10 +1,20 @@
 example graphQL Query
+internal query
 ```
 {
   site {
     siteMetadata {
       description
     }
+  }
+}
+```
+
+api
+```
+{
+  charactersdata {
+    results
   }
 }
 ```
@@ -29,6 +39,3 @@ example graphQL Query
   - dynamic page creation with api (similar to sessionize)
 
 - 36:56 - first run
-
-
-
