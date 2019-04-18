@@ -5,4 +5,4 @@
 - Works Offline (Caching)
 - Push Notifications
 - Service Workers
-  - JS code that caches data, retrieves data from the cache, and delivers push notifications
+  - Cache data, retrieve data from the cache, and deliver push notifications

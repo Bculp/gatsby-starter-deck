@@ -1,12 +1,13 @@
 ### Benefits of Gatsby
-- Use any data source you want
+- Use (almost) any data source
   - Markdown, Headless CMS, APIs, YAML, CSV...
-- Super fast (SPA-like experience)
-  - Possible through things like inlining critical CSS (does this out of the box)
-- Can be hosted anywhere
-  - Mention gitlab pages, heroku, netlify
-  - If use netlify, can put CMS layer over top
-- Dynamic page creation
+- Super fast 
+  - Feels like a SPA
+  - Inlining critical CSS
+- Host anywhere
+  - Gitlab pages, heroku, netlify, etc.
+  - Netlify CMS
+- Dynamically create pages
 - Plugins
-- [Tons of starter templates](https://www.gatsbyjs.org/starters/?v=2)
-  - starters can be tech specific (i.e. TypeScript), style specific (i.e. PostCSS, SASS), or content specific (ecommerce, blog)
+- [Starter templates](https://www.gatsbyjs.org/starters/?v=2)
+  - Can be tech specific (i.e. TypeScript), style specific (i.e. PostCSS, SASS), or content specific (ecommerce, blog)

@@ -12,7 +12,9 @@ const Header = ({ name, event }) => (
     <Link to="/1">
       <span>{name}</span>
     </Link>
-    <time>{event}</time>
+    <Link to="/19">
+      <time>{event}</time>
+    </Link>
   </header>
 );
 

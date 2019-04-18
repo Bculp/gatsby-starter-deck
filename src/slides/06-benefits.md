@@ -2,7 +2,7 @@
 - GraphQL
   - Provides an easy way for you to determine what data you want to receive
 - Webpack
-- Reach Router & Pages dir
+- Reach Router & Pages directory
 - HMR
 - Gatsby Link
-  - unlocks “preloading” feature - resources for the page being navigated to are preloaded before the user gets there
+  - Unlocks “preloading” feature

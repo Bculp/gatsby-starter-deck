@@ -15,7 +15,7 @@ example graphQL Query
 
 - [ ] setup rick and morty or swapi for graphql demos
 
-- [ ] talk more about PWA aspects
+- [x] talk more about PWA aspects
 
 - [ ] add a CRA vs Gatsby section
   - routing

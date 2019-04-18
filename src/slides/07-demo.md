@@ -1,4 +1,4 @@
-### Getting started (demo)
+### Getting started
 
 - npm install -g gatsby-cli
 - gatsby new gatsby-site

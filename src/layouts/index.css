@@ -41,7 +41,7 @@ html {
   display: flex;
   overflow: hidden;
   justify-content: center;
-  margin-top: 5em;
+  margin-top: 5em; /* should we reduce this further? */
 
   width: 100vw;
   height: 100vh;
@@ -136,8 +136,8 @@ h2 {
 }
 
 p {
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 header {
