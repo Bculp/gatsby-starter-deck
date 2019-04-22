@@ -1,8 +1,6 @@
-### What is a PWA?
+### What is a Progressive Web App?
 
-- Responsive
-  - Any size/device
-- Works Offline (Caching)
-- Push Notifications
-- Service Workers
-  - Cache data, retrieve data from the cache, and deliver push notifications
+#### Google says:
+- Reliable (loads instantly)
+- Fast (snappy UI)
+- Engaging  (feels like native app)
