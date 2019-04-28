@@ -23,7 +23,7 @@ api
 
 - [x] move slide 13 up (building and hmr) before 11. smoother transition into the demo
 
-- [ ] setup rick and morty or swapi for graphql demos
+- [x] setup rick and morty or swapi for graphql demos
 
 - [x] talk more about PWA aspects
 
