@@ -1,8 +1,6 @@
 ### Additional benefits of Gatsby
-- GraphQL
-  - Provides an easy way for you to determine what data you want to receive
-- Webpack
-- Reach Router & Pages directory
-- HMR
-- Gatsby Link
-  - Unlocks “preloading” feature
+
+- Dynamically create pages
+- Plugins
+- [Starter templates](https://www.gatsbyjs.org/starters/?v=2)
+  - Can be tech specific (i.e. TypeScript), style specific (i.e. PostCSS, SASS), or content specific (ecommerce, blog)

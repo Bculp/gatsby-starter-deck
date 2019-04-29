@@ -1,5 +1,4 @@
-### Demo 4
-#### Plugins
+### Plugins - gatsby image, react helmet, manifest
 
 - Plugins are: “Packages that extend Gatsby sites. They can source content, transform data, and more!”
 - Gatsby-image (baller image loading)

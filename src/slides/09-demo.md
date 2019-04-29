@@ -1,4 +1,4 @@
-### Directory Structure Cont. (demo)
+### Directory Structure - gatsby config
 
 - gatsby-config
   - Main config file for your site

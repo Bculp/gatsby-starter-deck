@@ -1,5 +1,4 @@
- ### Demo 5
-#### More Plugins
+ ### More Plugins - offline & apiserver
   
 - Gatsby-plugin-offline
   - Makes site work offline/more resistant to bad connections, also creates and loads - service worker)

@@ -41,7 +41,7 @@ html {
   display: flex;
   overflow: hidden;
   justify-content: center;
-  margin-top: 5em; /* should we reduce this further? */
+  margin-top: 2em; /* should we reduce this further? */
 
   width: 100vw;
   height: 100vh;
@@ -153,7 +153,7 @@ header {
   align-items: center;
 
   width: 100%;
-  padding: 40px;
+  padding: 30px;
 
   user-select: none;
 }

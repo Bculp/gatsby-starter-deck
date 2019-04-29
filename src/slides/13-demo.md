@@ -1,4 +1,4 @@
-### Demo 3
+### Creating/linking to pages, GraphiQL
 
 - Creating pages with Pages directory
   - Add a page and then go to it in browser

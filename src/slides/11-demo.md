@@ -1,4 +1,4 @@
-### Directory Structure Cont. (demo)
+### Directory Structure Cont - source directory
 
 src (all of the front-end code)
   - pages

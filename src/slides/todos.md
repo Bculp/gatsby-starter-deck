@@ -31,11 +31,41 @@ api
   - routing
   - intro to react
 
-- [ ] have examples of (demo):
+- [x] have examples of (demo):
   - different data sources (slide 5)
   - basic react components
   - react helmet
   - manifest
   - dynamic page creation with api (similar to sessionize)
+
+
+## Michael's Feedback from dry run
+- [ ] Does the 404 come with gatsby or the Gatsby template
+
+- [ ] May want to show off the html.js thing at the end
+
+- [x] May want to lay out the plan for the talk so people know where you are headed
+
+- [ ] Go over Gatsby build process
+
+## Ryan's notes from direct feedback
+
+- [ ] diff between create-react-app
+
+  - starter templates
+
+  - static vs dynamic
+
+- [ ] brief intro to react
+
+- [ ] Gatsby Link info (how does it work?)
+
+- [ ] more differentiators between Gatsby and other frameworks
+
+https://github.com/gatsbyjs/gatsby/issues/1458
+
+- [ ] More of a note than a todo. Start pres w/ intros & give our story about Gatsby:
+  - Show Momentum site
+  - Explain why we used it (no specifics, just general overview) (Lift & Shift + Redesign of existing site) -> we'll cover more reasons in the presentation
 
 - 36:56 - first run

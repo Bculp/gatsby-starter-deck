@@ -1,4 +1,4 @@
-### Directory Structure Cont. (demo)
+### Directory Structure Cont - src (public/components/html.js)
 
 src (all of the front-end code)
   - public

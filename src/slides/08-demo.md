@@ -1,4 +1,4 @@
-### Directory Structure (demo)
+### Directory structure - gatsby files (ssr, node, browser)
 
 - gatsby-ssr
   - Setup pre-defined APIs for SSR

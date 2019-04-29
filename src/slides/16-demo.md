@@ -1,5 +1,4 @@
- ### Demo 6
-#### Even more Plugins
+ ### More Plugins - Analytics
 
 - Gatsby-plugin-gtag (google analytics)
     - mention, but don't demo
