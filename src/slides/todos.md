@@ -40,9 +40,9 @@ api
 
 
 ## Michael's Feedback from dry run
-- [ ] Does the 404 come with gatsby or the Gatsby template
+- [x] Does the 404 come with gatsby or the Gatsby template
 
-- [ ] May want to show off the html.js thing at the end
+- [ ] May want to show off the html.js thing at the end (I agree with this, but how do we show it at the end?)
 
 - [x] May want to lay out the plan for the talk so people know where you are headed
 
@@ -56,7 +56,7 @@ api
 
   - static vs dynamic
 
-- [ ] brief intro to react
+- [x] brief intro to react (think we can skip this as long as we don't make assumptions when demoing components)
 
 - [ ] Gatsby Link info (how does it work?)
 
