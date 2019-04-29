@@ -1,7 +1,3 @@
-### Getting started
+### Demo Time
 
-- npm install -g gatsby-cli
-- gatsby new gatsby-site
-  - clones the gatsby-starter-default “starter”
-  - installs dependencies with yarn
-- cd gatsby-site
+![Away We Go](//i.imgur.com/KpVYbPg.gif)

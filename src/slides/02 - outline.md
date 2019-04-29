@@ -6,4 +6,3 @@
   - Brief background
   - Benefits to using Gatsby
   - Demo
-    - generating pages from different data sources (markdown and graphql)
