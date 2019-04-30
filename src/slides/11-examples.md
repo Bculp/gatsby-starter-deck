@@ -1,4 +1,4 @@
-### Sites using Gatsby.js
+### Sites using Gatsby
 
 - [Momentum Dev Con](https://momentumdevcon.com/)
 - [React](https://reactjs.org/)

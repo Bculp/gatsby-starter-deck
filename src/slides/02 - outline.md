@@ -2,7 +2,6 @@
 
 - Static Site Generators & Progressive Web Applications
 
-- Gatsby
-  - Brief background
-  - Benefits to using Gatsby
-  - Demo
+- Brief background on Gatsby
+- Benefits of using Gatsby
+- Demo

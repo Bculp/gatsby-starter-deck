@@ -1,4 +1,4 @@
-### Benefits of Gatsby
+### Benefits
 
 - Use almost any data source
 - Super fast
